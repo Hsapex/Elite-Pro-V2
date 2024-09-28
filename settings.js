@@ -6,24 +6,24 @@ const chalk = require('chalk')
 global.sessionid ='put your session id here'
 
 //owmner v card
-global.ytname = "YT: ELITE-PRO-V2" //ur yt chanel name
-global.socialm = "GitHub: Elite-MD" //ur github or insta name
-global.location = "Port Harcourt, Nigeria" //ur location
+global.ytname = "YT: Hsapex" //ur yt chanel name
+global.socialm = "GitHub: Hsapex" //ur github or insta name
+global.location = "Lagos, Nigeria" //ur location
 
 //new
-global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
-global.ownername = 'ELITE-PRO-V2' //ur owner name
+global.botname = 'Hsapex' //ur bot name
+global.ownernumber = '2348109547767' //ur owner number
+global.ownername = 'Hsapex' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
-global.wm = "ELITE-PRO-V2"
+global.wm = "Hsapex"
 global.botscript = 'https://github.com/Elite-MD/ELITE-PRO-V2' //script link
 global.packname = "Sticker By"
-global.author = "ELITE-PRO-V2"
-global.creator = "2348109263390@s.whatsapp.net"
+global.author = "Hsapex"
+global.creator = "2348109547767@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348109263390"] // Premium User
+global.premium = ["2348109547767"] // Premium User
 global.hituet = 0
 
 //bot sett

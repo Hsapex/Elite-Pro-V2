@@ -5,22 +5,22 @@ const chalk = require('chalk')
 //owmner v card
 global.ytname = "YT: ElitePro" //ur yt chanel name
 global.socialm = "GitHub: Elite-MD" //ur github or insta name
-global.location = "Port Harcourt, Nigeria" //ur location
+global.location = "Lagos, Nigeria" //ur location
 
 //new
-global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
-global.ownername = 'ELITE-PRO-V2' //ur owner name
+global.botname = 'Apex-V2' //ur bot name
+global.ownernumber = '2348109547767' //ur owner number
+global.ownername = 'Apex-V2' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
-global.wm = "ELITE-PRO-V2"
+global.wm = "Apex-V2"
 global.botscript = 'https://github.com/Elite-MD/Elite-Pro-V2' //script link
 global.packname = "Sticker By"
-global.author = "ELITE-PRO-V2\n\n+2348109263390"
-global.creator = "2348109263390@s.whatsapp.net"
+global.author = "ELITE-PRO-V2\n\n+2348109547767"
+global.creator = "2348109547767@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348109263390"] // Premium User
+global.premium = ["2348109547767"] // Premium User
 global.hituet = 0
 //Stop here don't exceeds'-----------------
 
@@ -29,7 +29,7 @@ global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true//welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
 global.adminevent = false //show promote/demote message

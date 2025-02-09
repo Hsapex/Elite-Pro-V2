@@ -4,34 +4,34 @@ const chalk = require('chalk')
 //session
 global.sessionid ='ur session id'
 //owmner v card
-global.ytname = "YT: @elitepro-empire" //ur YouTube channel name
-global.socialm = "GitHub: Elite-MD" //ur github or insta name
-global.location = "Port Harcourt, Nigeria" //ur location
+global.ytname = "YT: " //ur YouTube channel name
+global.socialm = "GitHub: Apex" //ur github or insta name
+global.location = "Lagos, Nigeria" //ur location
 
 //new
-global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
-global.ownername = 'ELITEPRO' //ur owner name
+global.botname = '𓃵' //ur bot name
+global.ownernumber = '23481095477677' //ur owner number
+global.ownername = 'ᴀᴘᴇxㅤ  𓃵' //ur owner name
 
-global.themeemoji = '👨‍💻'
-global.wm = "EliteProEmpire"
+global.themeemoji = '𓃵'
+global.wm = "Apex"
 global.botscript = 'https://github.com/Elite-MD/Elite-Pro-V2' //script link
 global.elitepropp = 'https://i.ibb.co/svNLtkqf/20250128-021109.jpg' //ElitePro thumbnail picture
 
 global.packname = "Sticker By"
-global.author = "ELITE-PRO-V2\n\n+2348109263390"
-global.creator = "2348109263390@s.whatsapp.net"
+global.author = "ᴀᴘᴇxㅤ  𓃵\n\n+2348109547767"
+global.creator = "2348109547767@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348109263390"] // Premium User
+global.premium = ["2348109547767"] // Premium User
 global.hituet = 0
 //bot sett
 global.typemenu = 'v8' // menu type 'v1' => 'v8'
 global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
+global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 
